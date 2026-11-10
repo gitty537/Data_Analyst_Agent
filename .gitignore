@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/sales.db
+data/sales.csv
+charts/
+.mpl_cache/
+eval/results.json
